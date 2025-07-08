@@ -2,10 +2,10 @@ name : Python CI
 on: 
     push:
         branches: 
-            - main 
+            - Main 
     pull_request:
         branches: 
-            - main 
+            - Main 
 
 jobs:
     test:
